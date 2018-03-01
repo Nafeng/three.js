@@ -1,0 +1,1 @@
+import "./libs/weapp-adapter.js"
